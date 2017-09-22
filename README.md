@@ -17,7 +17,7 @@ Music has been replaced with a silent mp3 to respect copyright.
 
 Attribution for specific assets:
 
-- Sound credits:
+Sound credits:
 - Button - fins
 - Coin Drop - Rickmk2
 - Item Collect - cameronmusic
