@@ -17,13 +17,13 @@ Music has been replaced with a silent mp3 to respect copyright.
 
 Attribution for specific assets:
 
-Sound credits:
-Button - fins
-Coin Drop - Rickmk2
-Item Collect - cameronmusic
-Thud - edgardEdition
-Soda Gun - SFX Source
-Glass Clink - Airbourne Sound
+-Sound credits:
+-Button - fins
+-Coin Drop - Rickmk2
+-Item Collect - cameronmusic
+-Thud - edgardEdition
+-Soda Gun - SFX Source
+-Glass Clink - Airbourne Sound
 
 Graphics Credits:
-Wood Boards - borysses
+-Wood Boards - borysses
