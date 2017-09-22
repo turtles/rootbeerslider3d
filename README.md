@@ -3,13 +3,13 @@ AS3 / Away3D rootbeer sliding game source code release
 
 ## Compiling
 Libraries used:
-*Away3D*
-*Starling Framework*
-*Standing Wave 3* (compiled SWC included)
-To compile this project, you will need to download and include Away3D 4.1 and Starling Framework 1.5.
+- *Away3D* 4.1
+- *Starling Framework* 1.5
+- *Box2D*
+- *Standing Wave 3* (compiled SWC included)
 
 Tools required:
-*Flex compiler*
+- *Flex compiler*
 
 ## Assets
 
